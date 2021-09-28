@@ -1,0 +1,18 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "AulasDH"
+include ':app'
+include ':app:aula23-ciclodevidaactivity'
+include ':app:aula24-layout'
+include ':app:aula24ex2'
+include ':app:aula25-fragmento'
+include ':app:aula25ex2'
+include ':app:aula26-fragments'
+include ':app:aula27-fragments'
+include ':app:aula27-fragmentos_revisao'

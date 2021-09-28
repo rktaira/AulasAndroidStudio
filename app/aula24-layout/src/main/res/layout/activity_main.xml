@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+
+<!--LinearLayout: Melhor para centralizar
+    androidx.constraintLayout: Ancora posições
+
+    match_parent: Tela inteira
+    wrap_content: Só o espaço necessário
+    dp: usar no lugar de pixel
+    -->
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="16dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:text="Ricardo"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="16dp"
+        android:text="ricardoktaira@gmail.com"/>
+
+<!--Para associar comportamentos ao botão:
+    -Dar um nome para o botão
+    -criar uma lateInit var-->
+
+    <Button
+        android:id="@+id/botao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="Confirmação"/>
+
+
+</LinearLayout>

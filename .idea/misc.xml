@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula24-layout/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula24-layout/src/main/res/layout/activity_main2.xml" value="0.2328125" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula24ex2/src/main/res/layout/activity_boas_vindas.xml" value="0.19947916666666668" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula24ex2/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula25-fragmento/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula25-fragmento/src/main/res/layout/fragment_fragmento_teste.xml" value="0.19791666666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula25-fragmentos/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.215625" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula25ex2/src/main/res/layout/activity_main.xml" value="0.21145833333333333" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula25ex2/src/main/res/layout/fragment_1.xml" value="0.21145833333333333" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula25ex2/src/main/res/layout/fragment_2.xml" value="0.21145833333333333" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula26-fragments/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula26-fragments/src/main/res/layout/fragment_fragmento1.xml" value="0.286231884057971" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula26-fragments/src/main/res/layout/fragment_fragmento2.xml" value="0.286231884057971" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragmentos_revisao/src/main/res/layout/activity_main.xml" value="0.33152173913043476" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragmentos_revisao/src/main/res/layout/fragment_clicks.xml" value="0.33152173913043476" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragmentos_revisao/src/main/res/layout/fragment_contador.xml" value="0.33152173913043476" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragmentos_revisao/src/main/res/layout/fragment_mais.xml" value="0.33152173913043476" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragmentos_revisao/src/main/res/layout/fragment_menos.xml" value="0.33152173913043476" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragmentos_revisao/src/main/res/layout/fragment_zerar.xml" value="0.33152173913043476" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragments/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragments/src/main/res/layout/fragment_cadastro.xml" value="0.33" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragments/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_clicks.xml" value="0.2033514492753623" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_contador.xml" value="0.33" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_mais.xml" value="0.15885416666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_menos.xml" value="0.17291666666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_zerar.xml" value="0.17291666666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/testando/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

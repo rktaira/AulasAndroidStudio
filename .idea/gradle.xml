@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/aula23-ciclodevidaactivity" />
+            <option value="$PROJECT_DIR$/app/aula24-layout" />
+            <option value="$PROJECT_DIR$/app/aula24ex2" />
+            <option value="$PROJECT_DIR$/app/aula25-fragmento" />
+            <option value="$PROJECT_DIR$/app/aula25ex2" />
+            <option value="$PROJECT_DIR$/app/aula26-fragments" />
+            <option value="$PROJECT_DIR$/app/aula27-fragmentos_revisao" />
+            <option value="$PROJECT_DIR$/app/aula27-fragments" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
