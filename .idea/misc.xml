@@ -25,16 +25,34 @@
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragments/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragments/src/main/res/layout/fragment_cadastro.xml" value="0.33" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula27-fragments/src/main/res/layout/fragment_login.xml" value="0.33" />
-        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-tablayout/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-tablayout/src/main/res/layout/activity_main.xml" value="0.48518518518518516" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-tablayout/src/main/res/layout/fragment_frag1.xml" value="0.25" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-tablayout/src/main/res/layout/fragment_frag2.xml" value="0.33" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-tablayout/src/main/res/layout/fragment_frag3.xml" value="0.25" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-viewpager/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-viewpager/src/main/res/layout/fragment_frag1.xml" value="0.16304347826086957" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula29-viewpager/src/main/res/layout/fragment_frag2.xml" value="0.16304347826086957" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-(TabLayout+RecyclerView)/src/main/res/drawable/arredondado.xml" value="0.37916666666666665" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-(TabLayout+RecyclerView)/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-(TabLayout+RecyclerView)/src/main/res/layout/bebida_layout.xml" value="0.27807971014492755" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-(TabLayout+RecyclerView)/src/main/res/layout/fragment_bebidas.xml" value="0.1921875" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-(TabLayout+RecyclerView)/src/main/res/layout/fragment_salgados.xml" value="0.25" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-(TabLayout+RecyclerView)/src/main/res/layout/item_layout.xml" value="0.1953125" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio/src/main/res/drawable/arredondado.xml" value="0.5" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio/src/main/res/layout/activity_2.xml" value="0.1921875" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio/src/main/res/layout/fragment_fragmento.xml" value="0.1921875" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio2/src/main/res/layout/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio2/src/main/res/layout/fragment_bebidas.xml" value="0.2046875" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio2/src/main/res/layout/fragment_doces.xml" value="0.2046875" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-exercicio2/src/main/res/layout/fragment_salgados.xml" value="0.2046875" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula30-recyclerview/src/main/res/layout/activity_main.xml" value="0.10131712259371833" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula31-animacao/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3619791666666667" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula31-animacao/src/main/res/drawable/circulo.xml" value="0.24114583333333334" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula31-animacao/src/main/res/drawable/ic_launcher_background.xml" value="0.3619791666666667" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula31-animacao/src/main/res/layout/activity_main.xml" value="0.25679347826086957" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula31-exercicio/src/main/res/drawable/circulo.xml" value="0.24479166666666666" />
+        <entry key="..\:/Download/DH/AulasAndroidStudio/app/aula31-exercicio/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/activity_main.xml" value="0.17291666666666666" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_clicks.xml" value="0.2033514492753623" />
         <entry key="..\:/Download/DH/AulasAndroidStudio/app/teste/src/main/res/layout/fragment_contador.xml" value="0.33" />

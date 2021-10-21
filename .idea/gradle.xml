@@ -21,8 +21,11 @@
             <option value="$PROJECT_DIR$/app/aula27-fragments" />
             <option value="$PROJECT_DIR$/app/aula29-tablayout" />
             <option value="$PROJECT_DIR$/app/aula29-viewpager" />
+            <option value="$PROJECT_DIR$/app/aula30-(TabLayout+RecyclerView)" />
             <option value="$PROJECT_DIR$/app/aula30-exercicio" />
             <option value="$PROJECT_DIR$/app/aula30-recyclerview" />
+            <option value="$PROJECT_DIR$/app/aula31-animacao" />
+            <option value="$PROJECT_DIR$/app/aula31-exercicio" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
